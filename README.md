@@ -2,12 +2,6 @@
 
 ![Capture d’écran 2021-11-02 232325](https://user-images.githubusercontent.com/91453617/142171220-e79150bc-d7fc-4e54-bc18-b0fde0a6839c.png)
 
-
-## Why
-
-This project take parts in an educational basis, to learn easy an advanced feature of HTML5 CSS3. <br>
-There is actually the first main page of Twitter
-
 ## To try at home
 
 To try our code,<br>
